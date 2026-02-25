@@ -1,0 +1,6 @@
+.env
+.DS_Store
+index/
+logs/
+__pycache__/
+*.pyc
